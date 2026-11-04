@@ -1,0 +1,16 @@
+{
+  "game_version": "1.15.0",
+  "source_commit": "6fe3463c828d662eda9eda2be3fc9294cd721fd1",
+  "built_at": "2026-11-04",
+  "engine": "Godot 4.7.2",
+  "renderer": "gl_compatibility",
+  "threaded": false,
+  "steam": false,
+  "mobile_default_fps": 30,
+  "web_adaptations": [
+    "compatibility renderer",
+    "bundled Korean font",
+    "desktop Steam extension excluded",
+    "existing nonthreaded web runtime retained"
+  ]
+}
